@@ -1,0 +1,24 @@
+{
+  "name": "axie-portal",
+  "version": "1.0.0",
+  "description": "A portal for Axie Infinity Managers and Scholars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poldarreldev/axie-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poldarreldev/axie-portal/issues"
+  },
+  "homepage": "https://github.com/poldarreldev/axie-portal#readme",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "graphql": "^15.6.1"
+  }
+}
