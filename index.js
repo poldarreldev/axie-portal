@@ -1,3 +1,5 @@
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+
 const { ApolloServer, gql } = require('apollo-server');
 
 // A schema is a collection of type definitions (hence "typeDefs")
